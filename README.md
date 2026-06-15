@@ -284,26 +284,3 @@ If you find this project helpful, please consider:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## 📞 Contact & Support
-
-Having issues? Need help?
-
-- 📧 **Email:** [ansmajidali@gmail.com](mailto:ansmajidali@gmail.com)
-- 🐛 **Issues:** [GitHub Issues](https://github.com/Ansarimajid/College-ERP/issues)
-- 💬 **Discussions:** [GitHub Discussions](https://github.com/Ansarimajid/College-ERP/discussions)
-
----
-
-<div align="center">
-
-### ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Ansarimajid/College-ERP&type=Date)](https://star-history.com/#Ansarimajid/College-ERP&Date)
-
-**Made with ❤️ by [Ansari Majid](https://github.com/Ansarimajid)**
-
-*If this project helped you, consider giving it a star! ⭐*
-
-</div>
